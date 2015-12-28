@@ -6,8 +6,9 @@ This project is an exercise in extracting data from an open source map project, 
 
 The map area is the Triangle region of central North Carolina.  This area encompasses the three major cities of Raleigh, Durham and Chapel Hill and is home to technology hub Research Triangle Park.
 
-I downloaded the data for the project from Map Zen's pre-defined Raleigh, North Carolina metropolitan area.  (https://s3.amazonaws.com/metro-extracts.mapzen.com/raleigh_north-carolina.osm.bz2)
-https://mapzen.com/data/metro-extracts
+![Triangle area - NC](Raleigh_map.png)
+
+I downloaded the data for the project from [Mapzen's](https://mapzen.com/data/metro-extracts) pre-defined Raleigh, North Carolina metropolitan area.  
 
 ### Project Files
 
