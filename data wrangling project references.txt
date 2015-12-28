@@ -1,0 +1,33 @@
+References
+
+OpenStreetMap
+https://en.wikipedia.org/wiki/OpenStreetMap
+
+US Postal Service Zip code lookup:
+https://tools.usps.com/go/ZipLookupAction!input.action
+
+Visualizing selected area on a map:
+http://gmaps-samples.googlecode.com/svn/trunk/fusiontables/rectangle_example.html
+
+http://gis.stackexchange.com/questions/29523/is-there-a-website-that-will-let-me-see-add-markers-and-bounding-boxes-on-top-of
+
+Benford’s law: 
+http://mathworld.wolfram.com/BenfordsLaw.html
+
+List of street names by zip code:
+http://www.melissadata.com/lookups/zipstreet.asp
+
+Pymongo API:
+http://api.mongodb.org/python/
+
+MongoDB Reference:
+https://docs.mongodb.org/v3.0/
+
+Converting a string to bytes
+http://www.mkyong.com/python/python-3-convert-string-to-bytes/
+
+Crisis mapping
+http://news.nationalgeographic.com/2015/05/150501-nepal-crisis-mapping-disaster-relief-earthquake/
+http://redcrosschat.org/2014/11/06/save-the-world-make-missing-maps/#sthash.IbzuV2D4.I6BkbG8J.dpbs
+
+
